@@ -370,8 +370,8 @@ blockquote {
 
 .section.red {
   padding-bottom: 160px;
-  background-image: url('../images/shape-2.png'), -webkit-gradient(linear, left top, left bottom, from(rgba(25, 67, 136, 0.9)), to(rgba(25, 67, 136, 0.9))), url('../images/ab.jpg');
-  background-image: url('../images/shape-2.png'), linear-gradient(180deg, rgba(25, 67, 136, 0.9), rgba(25, 67, 136, 0.9)), url('../images/ab.jpg');
+  background-image: url('../images/shape-2.png'), -webkit-gradient(linear, left top, left bottom, from(rgba(25, 67, 136, 0.9)), to(rgba(25, 67, 136, 0.9))), url('../images/about3.jpg');
+  background-image: url('../images/shape-2.png'), linear-gradient(180deg, rgba(25, 67, 136, 0.9), rgba(25, 67, 136, 0.9)), url('../images/about3.jpg');
   background-position: 50% 100%, 0px 0px, 50% 100%;
   background-size: contain, auto, cover;
   background-repeat: no-repeat, repeat, repeat;
@@ -401,8 +401,8 @@ blockquote {
 
 .section.gradient {
   padding-bottom: 220px;
-  background-image: url('../images/shape-3.png'), -webkit-gradient(linear, left top, left bottom, from(rgba(25, 67, 136, 0.9)), to(rgba(25, 67, 136, 0.9))), url('../images/b-1.jpg');
-  background-image: url('../images/shape-3.png'), linear-gradient(180deg, rgba(25, 67, 136, 0.9), rgba(25, 67, 136, 0.9)), url('../images/b-1.jpg');
+  background-image: url('../images/shape-3.png'), -webkit-gradient(linear, left top, left bottom, from(rgba(25, 67, 136, 0.9)), to(rgba(25, 67, 136, 0.9))), url('../images/about2.jpg');
+  background-image: url('../images/shape-3.png'), linear-gradient(180deg, rgba(25, 67, 136, 0.9), rgba(25, 67, 136, 0.9)), url('../images/about2.jpg');
   background-position: 50% 100%, 0px 0px, 50% 50%;
   background-size: contain, auto, cover;
   background-repeat: no-repeat, repeat, no-repeat;
