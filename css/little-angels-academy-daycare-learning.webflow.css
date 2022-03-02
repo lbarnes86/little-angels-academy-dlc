@@ -1124,7 +1124,25 @@ blockquote {
   flex: 0 auto;
   border: 6px solid #fff;
   border-radius: 100%;
-  background-image: url('https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg');
+  background-image: url('/images/daycare6.JPG');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.author-photo1 {
+  position: relative;
+  z-index: 1;
+  display: block;
+  width: 100px;
+  height: 100px;
+  margin-left: 25px;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 auto;
+  -ms-flex: 0 auto;
+  flex: 0 auto;
+  border: 6px solid #fff;
+  border-radius: 100%;
+  background-image: url('/images/about2.jpg');
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
